@@ -23,6 +23,38 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+ 
+      
+1.	Explain scenario, access system - 10min
+2.	Schemas (follow business areas)
+a.	Standard Document Types (e.g. just activate)
+i.	Delivery Note
+    - configure worklist entities
+    - remove fields
+    - add field
+    - change structure
+    - set fields to mandatory
+    - configure auto-confirm
+
+b.	Custom Document Type (e.g. with Vision)
+i.	SDS (with pictogram)
+ii.	Form (with checkboxes)
+iii.	Multiple tables, nested tables
+c.	Custom Document Type with custom prompt
+i.	Sustainability Permit Management (derive Compliance Tasks)
+ii.	Science Paper (e.g. from Daniel’s team)
+4.	Configuration
+a.	Activate IL
+b.	Configure auto confirmation 
+c.	Configure object and page header fields
+5.	Workflow 
+a.	Classify incoming documents in all these categories
+6.	(Optional) Try out other document types
+a.	Badge
+b.	Feedback form
+c.	Mail ingestion  one folder per team with rule based on subject line
+d.	Integration into backend system (we could use Denny’s demo app)
+e.	Authorizations (we configure a second user upfront because they cannot access IAS)
 
   
 **OR** Link to the Tutorial Navigator for example...
