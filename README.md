@@ -4,30 +4,27 @@
 
 This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
 
+
 ## Overview
 
 This session introduces attendees to...
 
-## Requirements
-
-The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
+- [Exercise 1 - Activate a content schema and upload your first document](exercises/ex1/)
+    - [Exercise 1.1 - Exercise 1 Activate a content schema](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.2 - Exercise 1 Upload a document](exercises/ex1#exercise-12-sub-exercise-2-description)
+- [Exercise 2 - Configure a schema](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+- [Exercise 3 - Create custom schemas](exercises/ex3/)
+- [Exercise 4 - Use Instant Learning to improve extraction accuracy](exercises/ex4/)
+- [Exercise 5 - Create a document workflow](exercises/ex5/)
+ 
 
 **IMPORTANT**
 
