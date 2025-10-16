@@ -20,9 +20,10 @@ After completing these steps you will have activated your first schema.
 After completing these steps you will have uploaded and reviewed your first document.
 
 1. Once you created your own schema in step 3. of the previous exercise, a new menu icon will appear in the navigation pane on the right. Click on it and select "Version 1". <br>![](/exercises/ex1/images/ex1_4.png)
-Now you reached the worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema. This list will show all documents that got processed with this schema
 
-2. Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the worklist. Pick the file "Company Registry Extract House of Companies UK.pdf" and upload it <br>![](/exercises/ex1/images/ex1_5.png)
+
+2. Now you reached the worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema. This list will show all documents that got processed with this schema.<br>
+Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the worklist. Pick the file "Company Registry Extract House of Companies UK.pdf" and upload it <br>![](/exercises/ex1/images/ex1_5.png)
 
 3. After the upload a new entry should appear in the worklist. Wait a few seconds until the status changes to "Review Needed"
 <br>![](/exercises/ex1/images/ex1_6.png)
@@ -32,7 +33,7 @@ Now you reached the worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema.
 
 ## Summary
 
-You've now ...
+You've now activated a first schema and processed a document with it. If you want to play around more, you can activate some of the other content schemas and upload documents of different types.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+If you want to continue, learn how to configure the schema further in exercise 2 - [Exercise 2 - Schema configuration](../ex2/README.md)
 
