@@ -1,8 +1,4 @@
-# Exercise 2 - Exercise 2 Description
-
-In this exercise, we will create...
-
-## Exercise 2.1 Configure Workslist and Object Page Header Entities
+# Exercise 2 - Configure Workslist and Object Page Header Entities
 
 Schemas allow configuring which information shall be shown in the worklist of documents and in the object page header of each document.<br>
 This can be used to customize the UI to the requirements of your business, e.g. when processing invoices, it might help to see the supplier name and total amount on the worklist to find the right invoice more quickly.
@@ -27,28 +23,8 @@ We will now configure this for our Company Registry Extract schema.
 8. To see the object header fields you configured, click on the document and check the header section of the screen. <br>![](/exercises/ex2/images/ex2_8.png)
 
 
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
-
 ## Summary
 
-You've now ...
+You've now cofigured which information to show on the worklist and object page.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
