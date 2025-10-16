@@ -11,8 +11,10 @@ To configure this, we will add a custom field to the schema that will extract th
    
 4. Finally, we want to configure dedicated processing instructions so that the field matches our use case. To do this, navigate to the "Processing Settings" tab and click on "Edit".
 <br>Then search for our newly added field and fill the "Processing Instructions" of this field with the following text:
-> Return "No" if shareholders are from the UK only.
-> Return "Yes (Europe)" if shareholders include any European country outside of UK.
+> Return "No" if shareholders are from the UK only.<br>
+> Return "Yes (Europe)" if shareholders include any European country outside of UK.<br>
 > Return "Yes (Global)" if shareholders include countries outside of Europe.
 <br>![](/exercises/ex3/images/ex3_4.png)
 
+5. Once you are done, activate the schema again, navigate back to the worklist and upload the document again. In the extraction results, search for the newly added field and validate if the value matches your expectation.
+<br>![](/exercises/ex3/images/ex3_5.png)
