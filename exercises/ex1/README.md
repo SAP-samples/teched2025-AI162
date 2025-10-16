@@ -23,7 +23,7 @@ After completing these steps you will have uploaded and reviewed your first docu
 
 
 2. Now you reached the worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema. This list will show all documents that got processed with this schema.<br>
-Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the worklist. Pick the file "Company Registry Extract House of Companies UK.pdf" and upload it <br>![](/exercises/ex1/images/ex1_5.png)
+Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the worklist. Pick the file ("Company Registry Extract House of Companies UK.pdf")[https://github.com/atweller/teched2025-AI162/blob/patch-3/exercises/documents/Company%20Registry%20Extract%20House%20of%20Companies%20UK.pdf] and upload it <br>![](/exercises/ex1/images/ex1_5.png)
 
 3. After the upload a new entry should appear in the worklist. Wait a few seconds until the status changes to "Review Needed"
 <br>![](/exercises/ex1/images/ex1_6.png)
