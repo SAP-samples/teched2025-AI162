@@ -17,8 +17,6 @@ This session introduces attendees to [SAP Document AI](https://www.sap.com/produ
     - [Exercise 1.1 - Exercise 1 Activate a content schema](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Upload a document](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Configure a schema](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Add custom fields to your schema](exercises/ex3/)
 - [Exercise 4 - Review documents and automate the review](exercises/ex4/)
 - [Exercise 5 - Create a custom schema](exercises/ex5/)
