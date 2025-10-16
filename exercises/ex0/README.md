@@ -1,26 +1,32 @@
-# Level 1 Heading
+# Accessing the SAP Document AI User Interface
 
-In this exercise, you will...
+In order to access the UI, select the link based on your group number.
+User and password will be shared by your moderators.
 
-## Level 2 Heading
-
-After completing these steps you will have....
-
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+| # | URL |
+| --- | --- |
+| 1 | https://sap-document-ai-hands-on-01-4oc4ejt8.eu30.doc.cloud.sap/workspace |
+| 2 | https://sap-document-ai-hands-on-02.eu30.doc.cloud.sap/workspace |
+| 3 | https://sap-document-ai-hands-on-03-i3y55nb0.eu30.doc.cloud.sap/workspace |
+| 4 | https://sap-document-ai-hands-on-04.eu30.doc.cloud.sap/workspace |
+| 5 | https://sap-document-ai-hands-on-05.eu30.doc.cloud.sap/workspace |
+| 6 | https://sap-document-ai-hands-on-06.eu30.doc.cloud.sap/workspace |
+| 7 | https://sap-document-ai-hands-on-07.eu30.doc.cloud.sap/workspace |
+| 8 | https://sap-document-ai-hands-on-08.eu30.doc.cloud.sap/workspace |
+| 9 | https://sap-document-ai-hands-on-09.eu30.doc.cloud.sap/workspace |
+| 10 | https://sap-document-ai-hands-on-10.eu30.doc.cloud.sap/workspace |
+| 11 | https://sap-document-ai-hands-on-11.eu30.doc.cloud.sap/workspace |
+| 12 | https://sap-document-ai-hands-on-12.eu30.doc.cloud.sap/workspace |
+| 13 | https://sap-document-ai-hands-on-13.eu30.doc.cloud.sap/workspace |
+| 14 | https://sap-document-ai-hands-on-14.eu30.doc.cloud.sap/workspace |
+| 15 | https://sap-document-ai-hands-on-15.eu30.doc.cloud.sap/workspace |
+| 16 | https://sap-document-ai-hands-on-16.eu30.doc.cloud.sap/workspace |
+| 17 | https://sap-document-ai-hands-on-17.eu30.doc.cloud.sap/workspace |
+| 18 | https://sap-document-ai-hands-on-18.eu30.doc.cloud.sap/workspace |
+| 19 | https://sap-document-ai-hands-on-19.eu30.doc.cloud.sap/workspace |
+| 20 | https://sap-document-ai-hands-on-20.eu30.doc.cloud.sap/workspace |
 
 ## Summary
 
 Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Exercise 1](../ex1/README.md)
