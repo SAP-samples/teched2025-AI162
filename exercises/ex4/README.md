@@ -11,7 +11,7 @@ To correct a value, you can either type in the correct value or draw a box aroun
 4. Once the document got reviewed and corrected, you can confirm it by clicking on the "Confirm" button. Confirming will mark the document as ready for downstream processes and will block furter editing.
 <br>![](/exercises/ex4/images/ex4_3.png)
 
-6. After a while, you have enonugh trust in the processing, that you do not want to review every document manually. Instead, you want to configure an automation based on the confidence value of the AI.<br>
+6. After a while of productive usage, you have enough trust in the processing, so that you do not want to review every document manually. Instead, you want to configure an automation based on the confidence value of the AI.<br>
 This is possible in the schema. Go back to the schema screen and edit the COMPANY_REGISTRY_EXTRACT_STANDARD schema again.
 
 7. Go to the "Automation" tab, activate "auto-confirmation" and select "65%" as confidence threshold. Before saving and activating the schema again.<br>
