@@ -22,4 +22,4 @@ To configure this, we will add a custom field to the schema that will extract th
 
 ## Summary
 
-You've now added your own custom field to a schema. You can either continue adding more fields or cContinue to - [Exercise 3](../ex3/README.md) to learn how to review documents and automate the review.
+You've now added your own custom field to a schema. You can either continue adding more fields or continue to - [Exercise 4](../ex4/README.md) to learn how to review documents and automate the review.
