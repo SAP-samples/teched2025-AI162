@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# AI162 - Get a hands-on experience with SAP Document AI
 
 ## Description
 
