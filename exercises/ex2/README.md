@@ -27,4 +27,4 @@ We will now configure this for our Company Registry Extract schema.
 
 You've now cofigured which information to show on the worklist and object page.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3](../ex3/README.md)
