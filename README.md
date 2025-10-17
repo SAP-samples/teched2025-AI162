@@ -1,34 +1,28 @@
-# Session ID - Session Title
+# AI162 - Get a hands-on experience with SAP Document AI
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called AI162 - Get a hands-on experience with SAP Document AI.  
 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to [SAP Document AI](https://www.sap.com/products/artificial-intelligence/ai-foundation-os/document-ai.html), SAP's intelligent document processing solution.
 
 
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Activate a content schema and upload your first document](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Activate a content schema](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Upload a document](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Configure a schema](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - Create custom schemas](exercises/ex3/)
-- [Exercise 4 - Use Instant Learning to improve extraction accuracy](exercises/ex4/)
-- [Exercise 5 - Create a document workflow](exercises/ex5/)
+- [Exercise 3 - Add custom fields to your schema](exercises/ex3/)
+- [Exercise 4 - Review documents and automate the review](exercises/ex4/)
+- [Exercise 5 - Create a custom schema](exercises/ex5/)
+- [Exercise 6 - Use Instant Learning to improve extraction accuracy](exercises/ex6/)
+- [Exercise 7 - Create a document workflow](exercises/ex7/)
  
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.

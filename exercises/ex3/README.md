@@ -18,3 +18,8 @@ To configure this, we will add a custom field to the schema that will extract th
 
 5. Once you are done, activate the schema again, navigate back to the worklist and upload the document again. In the extraction results, search for the newly added field and validate if the value matches your expectation.
 <br>![](/exercises/ex3/images/ex3_5.png)
+
+
+## Summary
+
+You've now added your own custom field to a schema. You can either continue adding more fields or continue to - [Exercise 4](../ex4/README.md) to learn how to review documents and automate the review.
