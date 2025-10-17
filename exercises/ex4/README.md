@@ -9,7 +9,7 @@ will review and correct documents in the document object page and confirm them t
 To correct a value, you can either type in the correct value or draw a box around the correct value in the document and then select the field that should be filled with this value in the dialog and apply it.<br>
 <br>![](/exercises/ex4/images/ex4_2.png)
 4. Once the document got reviewed and corrected, you can confirm it by clicking on the "Confirm" button. Confirming will mark the document as ready for downstream processes and will block furter editing.
-<br>![](/exercises/ex4/images/ex4_4.png)
+<br>![](/exercises/ex4/images/ex4_3.png)
 
 6. After a while, you have enonugh trust in the processing, that you do not want to review every document manually. Instead, you want to configure an automation based on the confidence value of the AI.<br>
 This is possible in the schema. Go back to the schema screen and edit the COMPANY_REGISTRY_EXTRACT_STANDARD schema again.
@@ -20,3 +20,10 @@ You can also play around with the confidence values or define confidence values 
 
 8. Now back to the document worklist and upload the document again. You will see that the document does not go to "Review Needed" anymore but instead directly goes to "Confirmed" since all fields are above the confidence threshold.
 <br>![](/exercises/ex4/images/ex4_5.png)
+
+
+## Summary
+
+You've now learned how to automatically confirm documents based on their confidence.<br>
+
+Continue to - [Exercise 5](../ex5/README.md)
