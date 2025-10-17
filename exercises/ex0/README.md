@@ -1,5 +1,7 @@
 # Accessing the SAP Document AI User Interface
 
+## Access the SAP Document AI User Interface
+
 In order to access the UI, select the link based on your group number.
 User and password will be shared by your moderators.
 
@@ -25,6 +27,14 @@ User and password will be shared by your moderators.
 | 18 | https://sap-document-ai-hands-on-18.eu30.doc.cloud.sap/workspace |
 | 19 | https://sap-document-ai-hands-on-19.eu30.doc.cloud.sap/workspace |
 | 20 | https://sap-document-ai-hands-on-20.eu30.doc.cloud.sap/workspace |
+
+## Sample Documents
+
+| Document Type | URL |
+| --- | --- |
+| Birth Certificate | [](/exercises/documents/birth%20certificate%20li.pdf) |
+| Birth Certificate | [](/exercises/documents/birth%20certificate%20priya.pdf) |
+| Company Registry Extract | [](/exercises/documents/Company%20Registry%20Extract%20House%20of%20Companies%20UK.pdf) |
 
 ## Summary
 
