@@ -28,5 +28,5 @@ User and password will be shared by your moderators.
 
 ## Summary
 
-Now that you have ... 
+Now that you have access to the UI, we can continue with uploading our first document. 
 Continue to - [Exercise 1](../ex1/README.md)
