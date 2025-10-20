@@ -13,6 +13,8 @@ This session introduces attendees to [SAP Document AI](https://www.sap.com/produ
 ## Exercises
 
 - [Getting Started](exercises/ex0/)
+    - [Access the SAP Document AI User Interface](exercises/ex0#access-the-sap-document-ai-user-interface)
+    - [Access the Sample Documents](exercises/ex0#sample-documents)
 - [Exercise 1 - Activate a content schema and upload your first document](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Activate a content schema](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Upload a document](exercises/ex1#exercise-12-sub-exercise-2-description)
