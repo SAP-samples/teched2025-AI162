@@ -1,4 +1,4 @@
-# Exercise 5 - TODO
+# Exercise 5 - Use Instant Learning to improve extraction accuracy
 
 Now that the schema matches our business expectations, we want to start using it productively. During productive use, our business users 
 will review and correct documents in the document object page and confirm them to trigger any kind of downstream process.
@@ -9,14 +9,14 @@ will review and correct documents in the document object page and confirm them t
 
 | Label               | Name         | Entity Type | Data type |
 | ------------------- | ------------ | ----------- | --------- |
-| Order Information   | orders       | Table       | String    |
-|   Packages           | packages     | Field       | Number    |
-|   Weight             | weight       | Field       | String    |
-|   Order No           | order_no     | Field       | String    |
 | Basic Data          | basic        | Group       | String    |
 |   Package Count      | package      | Field       | Number    |
 |   Sender Name        | sender_name  | Field       | String    |
 |   Bill of Lading No  | bol_no       | Field       | String    |
+| Order Information   | orders       | Table       | String    |
+|   Packages           | packages     | Field       | Number    |
+|   Weight             | weight       | Field       | String    |
+|   Order No           | order_no     | Field       | String    |
 | Carrier Information | carrier_info | Table       | String    |
 |   Description        | description  | Field       | String    |
 |   Material No        | material  | Field       | String    |
