@@ -87,3 +87,30 @@ For each of the branches that reference one of our document types, add an "Extra
 14. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all excercises you should have one schema created for each document type.<br>
 To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this excercise.
 <br>![](/exercises/ex7/images/ex7_2_11.png)
+
+## Step 3 - Test your workflow
+
+1. Once the design is done, click on save on the bottom right corner of the screen.
+<br>![](/exercises/ex7/images/ex7_3_1.png)
+
+3. Then click on "Activate" in the upper right corner.
+<br>![](/exercises/ex7/images/ex7_3_2.png)
+
+5. Now click on "Excute" to process a document with your workflow".
+
+6. Select one the sample files, e.g. the Bill of Lading one.
+<br>![](/exercises/ex7/images/ex7_3_4.png)
+
+7. Navigate to the "Executions" tab. You should see one entry here.
+
+
+8. Click on the entry to see the execution details, here you can follow the processing across the different workflow steps.
+<br>![](/exercises/ex7/images/ex7_3_5.png)
+
+9. You can also go to the document worklists to see that new documents appear here based on the workflow execution.
+
+
+## Summary
+
+In this excercise, you configured your first workflow with multiple steps and conditional processing.
+As a next step, you can configure additional schemas and workflows to experiment with processing of different types of documents.
