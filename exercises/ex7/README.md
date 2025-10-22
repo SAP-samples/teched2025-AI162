@@ -15,7 +15,7 @@ For the classification, we will again create a custom schema with just one field
 
 1. To create the schema, go to the schema UI and create a new schmea with name "classification" and document type "Custom".<br>![](/exercises/ex7/images/ex7_1_1.png)
 
-3. Navigate to the details of the newly created schema by clicking on it and hten clicking on version 1.<br>
+3. Navigate to the details of the newly created schema by clicking on it and then clicking on version 1.<br>
 Within the schema version details, go to the "Entities" tab and create the following entity structure:<br>
 
 | Label               | Name         | Entity Type | Data type |
@@ -37,5 +37,13 @@ Finally, click on save and activate to save your changes and activate the schema
 
 <br>![](/exercises/ex7/images/ex7_1_4.png)
 
+4. (Optional) Before creating the workflow, you can test the newly created schema with some of the sample documents to see if it works as intended.
 
 ## Step 2 - Create your first workflow
+
+Now that we have all prerequisites ready, we will create and design our workflow.
+
+1. Navigate to the "Workflow" UI via the navigation bar on the left and click on "Create".<br>![](/exercises/ex7/images/ex7_2_1.png)
+2. Specify a name and label for the workflow and click on "Create".<br>![](/exercises/ex7/images/ex7_2_2.png)
+3. After creation, the new workflow appears in the list of workflows. Click on it to navigate to the design area of the workflow.
+4. On the workflow page, you can find the design area on the bottom half of the page. The "+" element in the workflow between "Start" and "End" allows you to add additional steps to the workflow. Let us start by adding an "Extraction" step by clicking on "+" and "Extraction".<br>![](/exercises/ex7/images/ex7_2_3.png)
