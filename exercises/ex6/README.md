@@ -41,7 +41,7 @@ For example, the **Package Count** may be empty but should be extracted from the
 
 ## Step 3 - Verify Learning Results
 
-1. Upload another document to see how the learning is automatically being applied. You can either upload the same file again or pick another Bill of Lading document from our samples.
+1. Upload another document to see how the learning is automatically being applied. You can either upload the same file again or pick another Bill of Lading document from our samples. E.g. [BoL 2 French](/exercises/documents/Bill%20of%20Lading%202%20FR.pdf)
 
 2. In this example, a French Bill of Lading was uploaded.
    Once processed, the extracted data reflects the applied learning. Previously incorrect fields now appear correctly extracted.
