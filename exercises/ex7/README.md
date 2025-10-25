@@ -60,7 +60,7 @@ Now that we have all prerequisites ready, we will create and design our workflow
    
 6. Now you can click on the new extraction step to configure the details. An extraction step always references a schema version and processes the incoming document with this schema.<br>
 Specify identifier as ***classify***, this is crucial since we will reference this identifier later in the workflow.<br>
-Finally fill the schema version ID, with the value you stored in the previous excercise (step 4.).
+Finally fill the schema version ID, with the value you stored in the previous exercise (step 4.).
 <br>![](/exercises/ex7/images/ex7_2_3b.png)
 
 7. After this classification, we would to have a condition with different branches depending on the classification result.<br Click on the ***+*** after the ***Extraction*** step you added earlier and select ***Condition*** here.
@@ -75,7 +75,7 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 10. In the branch edit dialog. Specify a label and add the following expression and click on ***Apply***:
 > classify.fetchValue(***document_type***) == ***bol***
 
-***classify*** here references the previous workflow step. ***document_type*** references the field from the schema and ***bol*** the value of this field. Therefore, it is crucial to follow the exact naming in this excercise.
+***classify*** here references the previous workflow step. ***document_type*** references the field from the schema and ***bol*** the value of this field. Therefore, it is crucial to follow the exact naming in this exercise.
 <br>![](/exercises/ex7/images/ex7_2_7.png)
 
 
@@ -90,8 +90,8 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 For each of the branches that reference one of our document types, add an ***Extraction*** step.
 <br>![](/exercises/ex7/images/ex7_2_10.png)
 
-14. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all excercises you should have one schema created for each document type.<br>
-To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this excercise.
+14. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all exercises you should have one schema created for each document type.<br>
+To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this exercise.
 <br>![](/exercises/ex7/images/ex7_2_11.png)
 
 ## Step 3 - Test your workflow
