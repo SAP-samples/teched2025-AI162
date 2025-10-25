@@ -20,7 +20,7 @@ In this exercise, a custom field will be added to extract that information autom
 
 <br>![](/exercises/ex3/images/ex3_4.png)
 
-5. Once you are done, activate the schema again, navigate back to the worklist and upload the document again. In the extraction results, search for the newly added field and validate if the value matches your expectation.
+5. Once you are done, activate the schema again, navigate back to the Worklist and upload the document again. In the extraction results, search for the newly added field and validate if the value matches your expectation.
 <br>![](/exercises/ex3/images/ex3_5.png)
 
 

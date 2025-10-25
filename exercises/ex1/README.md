@@ -22,13 +22,13 @@ After completing these steps you will have uploaded and reviewed your first docu
 1. Once you created your own schema in step 3. of the previous exercise, a new menu icon will appear in the navigation pane on the right. Click on it and select "Version 1". <br>![](/exercises/ex1/images/ex1_4.png)
 
 
-2. Now you reached the worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema. This list will show all documents that got processed with this schema.<br>
-Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the worklist. Pick the file ["Company Registry Extract House of Companies UK.pdf"](/exercises/documents/Company%20Registry%20Extract%20House%20of%20Companies%20UK.pdf) and upload it <br>![](/exercises/ex1/images/ex1_5.png)
+2. Now you reached the Worklist of your "COMPANY_REGISTRY_EXTRACT_STANDARD" schema. This list will show all documents that got processed with this schema.<br>
+Since we haven't uploaded a document yet, the list is still empty. To start the processing, upload a document by clicking "Upload" or dragging and dropping a file into the Worklist. Pick the file ["Company Registry Extract House of Companies UK.pdf"](/exercises/documents/Company%20Registry%20Extract%20House%20of%20Companies%20UK.pdf) and upload it <br>![](/exercises/ex1/images/ex1_5.png)
 
-3. After the upload a new entry should appear in the worklist. Wait a few seconds until the status changes to "Review Needed"
+3. After the upload a new entry should appear in the Worklist. Wait a few seconds until the status changes to "Review Needed"
 <br>![](/exercises/ex1/images/ex1_6.png)
 
-4. Click on the document in the worklist to review the extracted information
+4. Click on the document in the Worklist to review the extracted information
 <br>![](/exercises/ex1/images/ex1_7.png)
 
 ## Summary

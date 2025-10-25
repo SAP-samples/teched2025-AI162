@@ -27,7 +27,7 @@ In the following exercise, we want to process Bill of Lading documents. Since th
 |   Description        | description  | Field       | String    |
 |   Material No        | material  | Field       | String    |
 
-8. Once you maintained all the entities, activate the schema by clicking on "Activate".<br>Then navigate to the worklist of this schema and upload the document
+8. Once you maintained all the entities, activate the schema by clicking on "Activate".<br>Then navigate to the Worklist of this schema and upload the document
    [Bill of Lading 1](/exercises/documents/Bill%20of%20Lading%201.pdf)
    
 9. Once the document changed its status to "Review Needed", open it and check whether the extracted information matches what you defined in your schema<br>![](/exercises/ex5/images/ex5_7.png)

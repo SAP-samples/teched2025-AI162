@@ -86,7 +86,7 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 > classify.fetchValue(***document_type***) == ***cr***
 <br>![](/exercises/ex7/images/ex7_2_8.png)
 
-12. The worflow should show show three branches, two for our document types and one ***default*** which you can ignore.<br>
+12. The workflow should show three branches, two for our document types and one ***default*** which you can ignore.<br>
 For each of the branches that reference one of our document types, add an ***Extraction*** step.
 <br>![](/exercises/ex7/images/ex7_2_10.png)
 
@@ -96,13 +96,13 @@ To get the version IDs, use a second browser tab, navigate to the schema UI and 
 
 ## Step 3 - Test your workflow
 
-1. Once the design is done, click on save on the bottom right corner of the screen.
+1. Once the design is done, click on save in the bottom right corner of the screen.
 <br>![](/exercises/ex7/images/ex7_3_1.png)
 
 3. Then click on ***Activate*** in the upper right corner.
 <br>![](/exercises/ex7/images/ex7_3_2.png)
 
-5. Now click on ***Excute*** to process a document with your workflow***.
+5. Now click on ***Execute*** to process a document with your workflow***.
 
 6. Select one the sample files, e.g. the Bill of Lading one.
 <br>![](/exercises/ex7/images/ex7_3_4.png)
@@ -113,7 +113,7 @@ To get the version IDs, use a second browser tab, navigate to the schema UI and 
 8. Click on the entry to see the execution details, here you can follow the processing across the different workflow steps.
 <br>![](/exercises/ex7/images/ex7_3_5.png)
 
-9. Check the document worklists to confirm that new entries appear based on the workflow’s classification and extraction steps.
+9. Check the document Worklists to confirm that new entries appear based on the workflow’s classification and extraction steps.
 
 ---
 
