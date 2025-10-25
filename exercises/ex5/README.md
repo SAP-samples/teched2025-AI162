@@ -1,6 +1,6 @@
 # Exercise 5 - Create a custom schema
 
-In the following excercise, we want to process Bill of Lading documents. Since this document type is not yet covered by any of the SAP content schemas, we will create our own custom schema.<br>
+In the following exercise, we want to process Bill of Lading documents. Since this document type is not yet covered by any of the SAP content schemas, we will create our own custom schema.<br>
 
 1. To create the custom schema, go to the schema UI and click on "Create schema"<br>![](/exercises/ex5/images/ex5_1.png)
 2. In the dialog, fill out the mandatory information and set the Document Type to "Custom"<br>![](/exercises/ex5/images/ex5_2.png) <br>
