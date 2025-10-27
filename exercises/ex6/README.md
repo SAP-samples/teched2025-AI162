@@ -29,10 +29,10 @@ For example, the **Package Count** may be empty but should be extracted from the
 7. Correct the field by clicking on the text in the document preview and then select the ***Package Count*** field and apply it.
 <br>![](/exercises/ex6/images/ex6_2_4.png)
 
-8. Next go to the ***Carrier Information*** table and notice that the ***Material*** and ***Description*** are not extracted as expected.
+8. Next go to the ***Carrier Information*** table and notice that the ***Material No*** and ***Description*** are not extracted as expected.
 <br>![](/exercises/ex6/images/ex6_2_6a.png)
 
-9. Correct both fields by selecting ***X-1316*** as ***Material*** and ***Printer Ink Cartridge*** as ***Description***.
+9. Correct both fields by selecting ***X-1316*** as ***Material No*** and ***Printer Ink Cartridge*** as ***Description***.
 <br>![](/exercises/ex6/images/ex6_2_5.png)
 
 10. Once you are happy with the results, click on ***Confirm*** in the bottom right corner and confirm the dialog. Now you taught the model your first corrections, which will automatically be applied the next time you process a document with this schema.
