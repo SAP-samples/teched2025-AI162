@@ -13,19 +13,19 @@ In the following exercise, we want to process Bill of Lading documents. Since th
 6. Following this, add a field to the table by clicking "Add Field" and selecting the table as parent.<br>![](/exercises/ex5/images/ex5_6.png)
 7. Repeat this for all the entities shown in the table below, make sure to always select the correct parents (either the group or one of the two tables):
    
-| Label               | Name         | Entity Type | Data type |
-| ------------------- | ------------ | ----------- | --------- |
-| Basic Data          | basic_data       | Group       | String    |
-|   Package Count      | package      | Field       | Number    |
-|   Sender Name        | sender_name  | Field       | String    |
-|   Bill of Lading No  | bol_no       | Field       | String    |
-| Order Information   | orders       | Table       | String    |
-|   Packages           | packages     | Field       | Number    |
-|   Weight             | weight       | Field       | String    |
-|   Order No           | order_no     | Field       | String    |
-| Carrier Information | carrier_info | Table       | String    |
-|   Description        | description  | Field       | String    |
-|   Material No        | material  | Field       | String    |
+| Label               | Name  | Entity Type | Data type |
+| ------------------- | ----- | ----------- |  |
+| Basic Data          | basic_data | Group       |  |
+|   Package Count      | package | Field       | Number |
+|   Sender Name        | sender | Field       | String |
+|   Bill of Lading No  | bol_no | Field       | String |
+| Order Information   | orders | Table       |  |
+|   Packages           | packages | Field       | Number |
+|   Weight             | weight | Field       | String |
+|   Order No           | order | Field       | String |
+| Carrier Information | carrier_info | Table       |  |
+|   Description        | description | Field       | String |
+|   Material No        | material | Field       | String |
 
 8. Once you maintained all the entities, activate the schema by clicking on "Activate".<br>Then navigate to the Worklist of this schema and upload the document
    [Bill of Lading 1](/exercises/documents/Bill%20of%20Lading%201.pdf)
