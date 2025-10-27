@@ -46,3 +46,9 @@ For example, the **Package Count** may be empty but should be extracted from the
 2. In this example, a French Bill of Lading was uploaded.
    Once processed, the extracted data reflects the applied learning. Previously incorrect fields now appear correctly extracted.
 <br>![](/exercises/ex6/images/ex6_3_1.png)
+
+## Summary
+
+You have learned how to improve the results with Instant Learning by correcting extraction errors and confirming documents. The system learns from your corrections and applies them automatically to future documents, enhancing extraction accuracy over time.
+confidence levels.<br>
+Continue to [Exercise 7](../ex7/README.md) to learn how to create workflows for document classification and type-specific extraction.
