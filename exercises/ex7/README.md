@@ -22,9 +22,9 @@ For the classification, you will create a custom schema that classifies document
 Within the schema version details, go to the ***Entities*** tab and create the following entity structure:<br>
 
 | Label               | Name         | Entity Type | Data type |
-| ------------------- | ------------ | ----------- | --------- |
-| Basic Data          | basic       | Group       | String    |
-|   Document Type      | document_type      | Field       | Number    |
+| ------------------- | ------------ | ----------- |-----------|
+| Basic Data          | basic       | Group       |           |
+|   Document Type      | document_type      | Field       | String    |
   
 <br>![](/exercises/ex7/images/ex7_1_3.png)
 
@@ -63,7 +63,7 @@ Specify identifier as ***classify***, this is crucial since we will reference th
 Finally fill the schema version ID, with the value you stored in the previous exercise (step 4.).
 <br>![](/exercises/ex7/images/ex7_2_3b.png)
 
-7. After this classification, we would to have a condition with different branches depending on the classification result.<br Click on the ***+*** after the ***Extraction*** step you added earlier and select ***Condition*** here.
+7. After this classification, we would to have a condition with different branches depending on the classification result.<br> Click on the ***+*** after the ***Extraction*** step you added earlier and select ***Condition*** here.
 <br>![](/exercises/ex7/images/ex7_2_4.png)
 
 8. Click on the condition to configure it. Specify the identifier as ***document_type***. Then click on the edit icon on the first branch to configure the branch.
@@ -73,7 +73,7 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 <br>![](/exercises/ex7/images/ex7_2_6.png)
 
 10. In the branch edit dialog. Specify a label and add the following expression and click on ***Apply***:
-> classify.fetchValue(***document_type***) == ***bol***
+> classify.fetchValue(***"document_type"***) == ***"bol"***
 
 ***classify*** here references the previous workflow step. ***document_type*** references the field from the schema and ***bol*** the value of this field. Therefore, it is crucial to follow the exact naming in this exercise.
 <br>![](/exercises/ex7/images/ex7_2_7.png)
@@ -83,7 +83,7 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 <br>![](/exercises/ex7/images/ex7_2_9.png)
       
 11. Now follow the steps from 9. just replace the condition with:
-> classify.fetchValue(***document_type***) == ***cr***
+> classify.fetchValue(***"document_type"***) == ***"cr"***
 <br>![](/exercises/ex7/images/ex7_2_8.png)
 
 12. The workflow should show three branches, two for our document types and one ***default*** which you can ignore.<br>
