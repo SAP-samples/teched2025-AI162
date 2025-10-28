@@ -18,7 +18,7 @@ This exercise explains how to enable Instant Learning and train the system throu
 If documents remain in the **Review Needed** state, select one of them. If none are available, upload a new document and wait until it reaches the **Review Needed** state.
 To observe the effect of Instant Learning on results, optionally upload the [BoL 2 French](/exercises/documents/Bill%20of%20Lading%202%20FR.pdf) document at this stage as well, in addition to the document you will correct for training. Later, you will re-upload the same file to compare results before and after learning.
 
-3. Open a document that is in ***Review Needed*** state (make sure it is the [BoL 1](/exercises/documents/Bill%20of%20Lading%201.pdf) one)
+3. Open a document that is in ***Review Needed*** state (make sure it is the [Bill of Lading 1.pdf](/exercises/documents/Bill%20of%20Lading%201.pdf))
 <br>![](/exercises/ex6/images/ex6_2_1.png)
 
 4. Click ***Edit***
