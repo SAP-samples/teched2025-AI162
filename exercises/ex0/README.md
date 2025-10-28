@@ -27,6 +27,28 @@ User and password will be shared by your moderators.
 | 18 | https://sap-document-ai-hands-on-18.eu30.doc.cloud.sap/workspace |
 | 19 | https://sap-document-ai-hands-on-19.eu30.doc.cloud.sap/workspace |
 | 20 | https://sap-document-ai-hands-on-20.eu30.doc.cloud.sap/workspace |
+| 21 | [https://sap-document-ai-hands-on-21.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-21.eu30.doc.cloud.sap/workspace) |
+| 22 | [https://sap-document-ai-hands-on-22.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-22.eu30.doc.cloud.sap/workspace) |
+| 23 | [https://sap-document-ai-hands-on-23.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-23.eu30.doc.cloud.sap/workspace) |
+| 24 | [https://sap-document-ai-hands-on-24.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-24.eu30.doc.cloud.sap/workspace) |
+| 25 | [https://sap-document-ai-hands-on-25.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-25.eu30.doc.cloud.sap/workspace) |
+| 26 | [https://sap-document-ai-hands-on-26.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-26.eu30.doc.cloud.sap/workspace) |
+| 27 | [https://sap-document-ai-hands-on-27.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-27.eu30.doc.cloud.sap/workspace) |
+| 28 | [https://sap-document-ai-hands-on-28.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-28.eu30.doc.cloud.sap/workspace) |
+| 29 | [https://sap-document-ai-hands-on-29.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-29.eu30.doc.cloud.sap/workspace) |
+| 30 | [https://sap-document-ai-hands-on-30.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-30.eu30.doc.cloud.sap/workspace) |
+| 31 | [https://sap-document-ai-hands-on-31.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-31.eu30.doc.cloud.sap/workspace) |
+| 32 | [https://sap-document-ai-hands-on-32.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-32.eu30.doc.cloud.sap/workspace) |
+| 33 | [https://sap-document-ai-hands-on-33.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-33.eu30.doc.cloud.sap/workspace) |
+| 34 | [https://sap-document-ai-hands-on-34.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-34.eu30.doc.cloud.sap/workspace) |
+| 35 | [https://sap-document-ai-hands-on-35.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-35.eu30.doc.cloud.sap/workspace) |
+| 36 | [https://sap-document-ai-hands-on-36.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-36.eu30.doc.cloud.sap/workspace) |
+| 37 | [https://sap-document-ai-hands-on-37.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-37.eu30.doc.cloud.sap/workspace) |
+| 38 | [https://sap-document-ai-hands-on-38.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-38.eu30.doc.cloud.sap/workspace) |
+| 39 | [https://sap-document-ai-hands-on-39.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-39.eu30.doc.cloud.sap/workspace) |
+| 40 | [https://sap-document-ai-hands-on-40.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-40.eu30.doc.cloud.sap/workspace) |
+| 41 | [https://sap-document-ai-hands-on-41.eu30.doc.cloud.sap/workspace](https://sap-document-ai-hands-on-41.eu30.doc.cloud.sap/workspace) |
+
 
 ## Sample Documents
 
